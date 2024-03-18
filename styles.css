@@ -1,0 +1,15 @@
+body {
+    background: white;
+    margin: 50px;
+}
+
+.contenedor {
+    height: 188px;
+    width: 357px;
+    background-image: url(https://i.pinimg.com/736x/c4/b4/2d/c4b42d1a8b277b8781b52a5bc3395bd6.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px;
+
+}
